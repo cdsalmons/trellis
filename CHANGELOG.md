@@ -1,4 +1,5 @@
 ### HEAD
+* Use WP-CLI nightly in development ([#392](https://github.com/roots/trellis/pull/392))
 * Update SSL cipher suite ([#386](https://github.com/roots/trellis/pull/386))
 * Support for other Vagrant providers (VirtualBox, VMWare, Parallels) ([#340](https://github.com/roots/trellis/pull/340))
 * Specify versions for Ansible Galaxy requirements ([#385](https://github.com/roots/trellis/pull/385))
